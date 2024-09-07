@@ -7,4 +7,10 @@ keywords = ["cricket players"]
 for kw in keywords:
 	response().download(kw, 10)
 
+#git remote add origin https://github.com/moiztanvir/git-1.1.git
 
+#git remote add origin https://github.com/moiztanvir/git-1.1.git
+
+#git remote add origin https://github.com/moiztanvir/git-1.1.git
+#git remote add origin https://github.com/moiztanvir/git-1.1.git
+#git remote add origin https://github.com/moiztanvir/git-1.1.git
