@@ -2,6 +2,8 @@ print(10)
 print(20)
 
 print(30)
+
+print(90)
 from simple_image_download import simple_image_download as simp
 
 response = simp.simple_image_download
