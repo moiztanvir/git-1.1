@@ -1,9 +1,3 @@
-print(10)
-print(20)
-
-print(30)
-
-print(90)
 from simple_image_download import simple_image_download as simp
 
 response = simp.simple_image_download
@@ -12,7 +6,6 @@ keywords = ["cricket players"]
 
 for kw in keywords:
 	response().download(kw, 10)
-print("Hello")
 #git remote add origin https://github.com/moiztanvir/git-1.1.git
 
 #git remote add origin https://github.com/moiztanvir/git-1.1.git
